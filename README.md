@@ -1,2 +1,5 @@
 # Module_8
-Module 8 Review
+
+References:
+
+The rental dataset used is this review is obtained from StreetEasy.com
